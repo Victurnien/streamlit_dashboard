@@ -1,5 +1,5 @@
 # requirements.txt
 snowflake-connector-python
-option_menu
+streamlit_option_menu
 pandas
 streamlit
