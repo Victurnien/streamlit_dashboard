@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
 import snowflake.connector
-import streamlit-option-menu
-from streamlit-option-menu import option_menu
-
+from streamlit_option_menu import option_menu
 
 with st.sidebar:
   selected = option_menu(
